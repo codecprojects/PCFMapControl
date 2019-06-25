@@ -9,6 +9,7 @@ private _context : ComponentFramework.Context<IInputs>;
 // API Key used to activate and embed the maps automatically
 // NOTE: You can follow the documentation at https://developers.google.com/maps/documentation/embed/get-api-key to generate your own API Key
 private MAPS_API_KEY: string = "<Replace your Key here>";
+
 /**
  * Empty constructor.
  */
